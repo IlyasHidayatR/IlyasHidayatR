@@ -1,4 +1,4 @@
-<img src="wmremove-transformed.png" width="10%" alt="Header Background">
+<img src="wmremove-transformed.png" width="100%" height="20%" alt="Header Background">
 <h1 align="center">Hi 👋, I'm Ilyas Hidayat Rusdy</h1>
 <h3 align="center">A Programmer from Indonesia</h3>
 
