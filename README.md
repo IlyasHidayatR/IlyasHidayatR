@@ -1,13 +1,7 @@
-<table width="100%">
-  <tr>
-    <td align="center" background="wmremove-transformed.png">
-      <br />
-      <h1 align="center">Hi 👋, I'm Ilyas Hidayat Rusdy</h1>
-      <h3 align="center">A Programmer from Indonesia</h3>
-      <br />
-    </td>
-  </tr>
-</table>
+<img src="wmremove-transformed.png" width="100%" alt="Header Background">
+<h1 align="center">Hi 👋, I'm Ilyas Hidayat Rusdy</h1>
+<h3 align="center">A Programmer from Indonesia</h3>
+
 <img align="right" alt="coding" width="400" src="https://www.lambdatest.com/resources/images/news24.gif">
 
 - 🔭 I’m currently working on [Web Animal Save](https://github.com/IlyasHidayatR/WebAnimalSave)
