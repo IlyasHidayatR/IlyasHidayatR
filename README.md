@@ -51,4 +51,4 @@
   <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" width="40"/>
 </p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ilyashidayatr&show_icons=true&locale=en&layout=compact" alt="ilyashidayatr" /></p>
+<p><img align="center" src="https://github-readme-stats-henna-three-91.vercel.app/api/top-langs?username=ilyashidayatr&show_icons=true&locale=en&layout=compact" alt="ilyashidayatr" /></p>
