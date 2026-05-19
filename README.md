@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Ilyas Hidayat Rusdy</h1>
 <h3 align="center">A Programmer from Indonesia</h3>
 
-<img align="right" alt="coding" width="400" src="https://www.lambdatest.com/resources/images/news24.gif">
+<img align="right" alt="coding" width="400" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZHozNnhtZmkzMTF3aTZpemZ6NmNsYWw2YjZtajk5OWpmMjZ4cDFiaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bJ4TVNYNUympPgcpem/giphy.gif">
 
 - 🔭 I’m currently working on [Web Animal Save](https://github.com/IlyasHidayatR/WebAnimalSave)
 
